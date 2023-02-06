@@ -62,9 +62,9 @@ h3 {
 hr {
     border-style: none;
     border-top-style: dotted;
-    border-color: #EAF6F6;
+    border-color: grey;
     border-width: 5px;
-    width: 30%;
+    width: 20%;
 }
 
 .skill-row {
